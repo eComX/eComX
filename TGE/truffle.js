@@ -2,12 +2,12 @@ module.exports = {
   networks: {
     development: {
         host: "localhost",
-        port: 7545,
+        port: 7500,
         network_id: "*"
     },
     live: {
         host: "localhost",
-        port: 8545,
+        port: 8500,
         gas: 6700000,
         network_id: 1
     }

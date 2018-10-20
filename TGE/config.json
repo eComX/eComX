@@ -1,19 +1,20 @@
 {
     "token":{
-        "totalSupply" : 57344000,
-        "name" : "Fusion Token",
-        "symbol" : "FSN",
+        "totalSupply" : 200000000,
+        "name" : "eComX Token",
+        "symbol" : "eComX",
         "decimals" : 18
     },
     "tokenSale":{
         "receiverAddr" : null ,
-        "totalSaleAmount" : 20480000,        
+        "totalSaleAmount" : 56000000,        
         "stages" : [
-            {"rate": 420, "duration":86400},
-            {"rate": 400, "duration":777600}
+            {"rate": 500, "duration":2678400}, 
+            {"rate": 500, "duration":2678400},
+            {"rate": 500, "duration":2678400}
         ],
-        "startTime" : 1517486400,
-        "userWithdrawalDelaySec" : 86400,
+        "startTime" : 1542240000,
+        "userWithdrawalDelaySec" : 7776000,
         "clearDelaySec" : 1296000
     }
 }

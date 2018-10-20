@@ -40,7 +40,7 @@
 	},
 	"file_history":
 	[
-		"/Users/hcdcspider/Desktop/xxxxxx"
+		"/Users/hcdcspider/Desktop/eComX/SOURCE/eComX/README.md"
 	],
 	"find":
 	{
@@ -116,7 +116,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "FUSIONToken.sublime-project",
+	"project": "eComXToken.sublime-project",
 	"replace":
 	{
 		"height": 0.0
@@ -152,15 +152,6 @@
 	"selected_group": 0,
 	"settings":
 	{
-		"last_automatic_layout":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		]
 	},
 	"show_minimap": true,
 	"show_open_files": false,

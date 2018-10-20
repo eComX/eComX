@@ -1,7 +1,7 @@
 {
   "name": "tokensale",
   "version": "1.0.0",
-  "description": "FUSION is a public blockchain devoting itself to creating an inclusive cryptofinancial platform by providing cross-chain, cross-organization, and cross-datasource smart contracts.",
+  "description": "eComX is a blockchain project that provide wrapping and transport services to ecommerce transaction datasets from centralized locations to the blockchain and inter-operability between cross-chain, cross-organization, and cross-sets smart contracts.",
   "main": "truffle.js",
   "directories": {
     "test": "test"
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FUSIONFoundation/TokenSale.git"
+    "url": "git+https://github.com/eComX/eComX/tree/master/TGE/"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "eComX Corporation",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/FUSIONFoundation/TokenSale/issues"
+    "url": "https://github.com/eComX/eComX/tree/master/TGE/issues"
   },
-  "homepage": "https://github.com/FUSIONFoundation/TokenSale#readme"
+  "homepage": "https://github.com/eComX/eComX/#readme"
 }
