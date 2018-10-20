@@ -10,7 +10,6 @@
         "totalSaleAmount" : 56000000,        
         "stages" : [
             {"rate": 500, "duration":2678400}, 
-            {"rate": 500, "duration":2678400},
             {"rate": 500, "duration":2678400}
         ],
         "startTime" : 1542240000,

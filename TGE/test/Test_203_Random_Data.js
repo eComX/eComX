@@ -7,25 +7,25 @@ edit avoid behind drop fit mouse fly enable mandate world return circle
 
 
 
-// 需要修改stages 里面的duration 以便快速测试
-// 需要修改startTime 大概比当前时间晚2-3分钟 以便测试 未开始的流程
-// 拷贝下列Config 到 config.json
+// Need to modify the duration in the stages to quickly test
+// need to modify startTime about 2-3 minutes later than the current time to test the process that has not started
+// Copy the following Config to config.json
 
 {
     "token":{
-        "totalSupply" : 57344000,
+        "totalSupply" : 200000000,
         "name" : "Fusion Token",
         "symbol" : "FSN",
         "decimals" : 18
     },
     "tokenSale":{
-        "receiverAddr" : "0x48132E8f6f253B7Bab9E3BcFE7234209a0FB57A3", //accounts[9]
-        "totalSaleAmount" : 204800,        
+        "receiverAddr" : "0x00", //accounts[9]
+        "totalSaleAmount" : 56000000,        
         "stages" : [
-            {"rate": 420, "duration":120},
-            {"rate": 400, "duration":120}
+            {"rate": 500, "duration":120},
+            {"rate": 480, "duration":120}
         ],
-        "startTime" : 大概比当前时间晚 2-3分钟 的 unix时间戳,
+        "startTime" : Unix timestamp approximately 2-3 minutes later than the current time,
         "userWithdrawalDelaySec" : 60,
         "clearDelaySec" : 60
     }
