@@ -3,7 +3,8 @@
 Used config
 
 MNEMONIC
-edit avoid behind drop fit mouse fly enable mandate world return circle
+ivory torch galaxy thought deny child panther equip piano mosquito neck pain
+
 
 // Need to modify the duration in the stages to quickly test
 // need to modify startTime about 2-3 minutes later than the current time to test the process that has not started
