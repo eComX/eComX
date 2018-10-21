@@ -3,7 +3,7 @@
 Used config
 
 MNEMONIC
-edit avoid behind drop fit mouse fly enable mandate world return circle
+ivory torch galaxy thought deny child panther equip piano mosquito neck pain
 
 
 
