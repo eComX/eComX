@@ -36,7 +36,7 @@ ivory torch galaxy thought deny child panther equip piano mosquito neck pain
 
 */
 
-var Token = artifacts.require("./FUSIONToken.sol");
+var Token = artifacts.require("./eComXToken.sol");
 var TokenSale = artifacts.require("./ShareTokenSale.sol");
 var config = require("../config.json");
 var tokenConfig = config.token;
